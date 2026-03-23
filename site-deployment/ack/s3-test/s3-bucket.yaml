@@ -1,0 +1,6 @@
+apiVersion: s3.services.k8s.aws/v1alpha1
+kind: Bucket
+metadata:
+  name: ack-test-bucket-783764589991
+spec:
+  name: ack-test-bucket-783764589991
